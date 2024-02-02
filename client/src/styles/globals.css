@@ -2,3 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+
+html
+{
+    font-family: 'Agbalumo', system-ui;
+    font-family: 'Roboto', sans-serif;
+}
+
